@@ -1,0 +1,22 @@
+{
+  "name": "auto-commit",
+  "version": "1.0.0",
+  "main": "src/index.mjs",
+  "repository": "git@github.com:chris-zhu/autoCommit.git",
+  "author": "chris <1633711653@qq.com>",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "clone": "npx zx src/clone/index.mjs",
+    "serve": "npx zx src/index.mjs"
+  },
+  "config": {
+    "port": "1111",
+    "dir": "repos",
+    "user": "chris-zhu"
+  },
+  "dependencies": {
+    "toad-scheduler": "^1.5.0",
+    "zx": "^2.0.0"
+  }
+}
