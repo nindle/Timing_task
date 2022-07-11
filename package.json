@@ -1,22 +1,27 @@
 {
   "name": "auto-commit",
-  "version": "1.0.0",
-  "main": "src/index.mjs",
-  "repository": "git@github.com:chris-zhu/autoCommit.git",
-  "author": "chris <1633711653@qq.com>",
-  "type": "module",
-  "license": "MIT",
+  "version": "0.1.0",
+  "description": "auto commit project",
+  "keywords": [
+    "github",
+    "auto commit",
+    "nodejs",
+    "javascript",
+    "blaze"
+  ],
+  "author": "Blaze",
+  "private": true,
   "scripts": {
-    "clone": "npx zx src/clone/index.mjs",
-    "serve": "npx zx src/index.mjs"
-  },
-  "config": {
-    "port": "1111",
-    "dir": "repos",
-    "user": "chris-zhu"
+    "auto": "node lib/run.js"
   },
   "dependencies": {
-    "toad-scheduler": "^1.5.0",
-    "zx": "^2.0.0"
+    "dayjs": "^1.7.5",
+    "fs-extra": "^7.0.0",
+    "simple-git": "^1.105.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 8.0.0",
+    "npm": ">= 5.2.0"
   }
 }
