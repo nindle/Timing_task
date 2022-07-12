@@ -1,2 +1,6 @@
 [09:26:43][error] 获取更新失败~
 [09:26:43][error] Error: fatal: unable to access 'https://github.com/nindle/Timing_task.git/': Failed to connect to github.com port 443 after 21040 ms: Timed out
+[09:27:03][error] 获取更新失败~
+[09:27:03][error] Error: fatal: unable to access 'https://github.com/nindle/Timing_task.git/': OpenSSL SSL_read: Connection was reset, errno 10054
+[09:27:03] auto commit
+[09:27:03] maxCommitCount：9
