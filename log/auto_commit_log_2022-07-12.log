@@ -18,3 +18,26 @@
 [09:55:24][error] Error: fatal: unable to access 'https://github.com/nindle/Timing_task.git/': OpenSSL SSL_read: Connection was reset, errno 10054
 [09:55:24] auto commit
 [09:55:24] maxCommitCount：5
+[10:03:49][error] 获取更新失败~
+[10:03:49][error] Error: There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+[10:03:53][error] 获取更新失败~
+[10:03:53][error] Error: There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+[10:03:54] auto commit
+[10:03:54] maxCommitCount：1
+[10:03:57] auto commit succeed
