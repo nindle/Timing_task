@@ -1,0 +1,5 @@
+[00:06:54][error] 获取更新失败~
+[00:06:54][error] Error: Your configuration specifies to merge with the ref 'refs/heads/master'
+from the remote, but no such ref was fetched.
+[00:06:54] auto commit
+[00:06:54] maxCommitCount：10
