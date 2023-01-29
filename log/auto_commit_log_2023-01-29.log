@@ -27,3 +27,9 @@ from the remote, but no such ref was fetched.
 [18:24:07] auto commit
 [18:24:07] maxCommitCount：6
 [18:24:11] auto commit succeed
+[18:26:44][error] 获取更新失败~
+[18:26:44][error] Error: Could not read from remote repository.
+[18:26:45][error] 获取更新失败~
+[18:26:45][error] Error: Could not read from remote repository.
+[18:26:45] auto commit
+[18:26:45] maxCommitCount：2
