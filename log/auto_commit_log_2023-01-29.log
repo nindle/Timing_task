@@ -18,3 +18,6 @@ from the remote, but no such ref was fetched.
 [18:18:11][error] Error: Could not read from remote repository.
 [18:18:11] auto commit
 [18:18:11] maxCommitCount：3
+[18:19:51] auto commit
+[18:19:51] maxCommitCount：6
+[18:19:55] auto commit succeed
