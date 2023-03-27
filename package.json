@@ -17,9 +17,8 @@
   "dependencies": {
     "dayjs": "^1.7.5",
     "fs-extra": "^7.0.0",
-    "simple-git": "^3.10.0"
+    "simple-git": "^3.17.0"
   },
-  "devDependencies": {},
   "engines": {
     "node": ">= 8.0.0",
     "npm": ">= 5.2.0"
